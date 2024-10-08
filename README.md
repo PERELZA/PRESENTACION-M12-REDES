@@ -14,23 +14,23 @@
 
 ### IPs especiales  y reservadas  
 
-1. **IDred:** IPs que ifientifican un conjunto de host.
-	-Tiene todos los bits de host a 0. 
-	-Ej: 123.0.0.0/182.0.0.0
+1. **IDred:** IPs que ifientifican un conjunto de host.                                                                
+	- Tiene todos los bits de host a 0                                                                             
+	- Ej: 123.0.0.0/182.0.0.0                                                                                       
 2. **IPs de brodcast:** Se utiliza en el destino de los paquetes para que los recojan todos los dispositivos de una red. 
-	-Tienen todos los bits de host a 1
-	-Ej: 123.255.255.255/182.255.255.255
+	- Tienen todos los bits de host a 1
+	- Ej: 123.255.255.255/182.255.255.255
 3. **IPs de local host:** Para referirse a uno mismo. 
-	-Ej: 127.x.x.x
+	- Ej: 127.x.x.x
 4. **IPs de local-link:** Son las IP cuando el DHCP no les asgna 1. No te dan acceso a inernet. 
-	-Ej: 169.254.x.x
+	- Ej: 169.254.x.x
 5. **IPs de test-net:** Para Documentaciones
 6. **IPs ruta predetermianada:** Para marcar la ruta por defecto de los paquetes cuyo destino no esta en la tabla de enrutamiento.
-	-Ej: 0.x.x.x
+	- Ej: 0.x.x.x
 7. **IPs de clase D:** Para multicast
-	-Ej: 224.x.x.x
+	- Ej: 224.x.x.x
 8. **IPs de clase E:** Para experimentación de internet.
-	-Ej: 240.x.x.x
+	- Ej: 240.x.x.x
 
 ### IPs publicas y privadas 
 
