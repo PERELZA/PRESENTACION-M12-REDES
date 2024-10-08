@@ -14,8 +14,9 @@
 
 ### IPs especiales  y reservadas  
 
-1. **IDred:** IPs que ifientifican un conjunto de host. 1.1 Tiene todos los bits de host a 0. 1.2 Ej: 123.0.0.0/182.0.0.0
-	
+1. **IDred:** IPs que ifientifican un conjunto de host. 
+	1.1 Tiene todos los bits de host a 0. 
+	1.2 Ej: 123.0.0.0/182.0.0.0
 2. **IPs de brodcast:** Se utiliza en el destino de los paquetes para que los recojan todos los dispositivos de una red. 
 	2.1 Tienen todos los bits de host a 1
 	2.2 Ej: 123.255.255.255/182.255.255.255
@@ -34,10 +35,10 @@
 ### IPs publicas y privadas 
 
 - IPs publicas 
- ·Pueden salir a inetrnet
+	-Pueden salir a inetrnet
 - IPs privadas
- ·No pueden salir a internet
- ·Se pueden repetir en diferentes redes
+	-No pueden salir a internet
+	-Se pueden repetir en diferentes redes
 
 |Clase | IPs privadas |
 |----------|:----------:|
