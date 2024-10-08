@@ -35,10 +35,10 @@
 ### IPs publicas y privadas 
 
 - IPs publicas 
-	-Pueden salir a inetrnet
+	- Pueden salir a inetrnet
 - IPs privadas
-	-No pueden salir a internet
-	-Se pueden repetir en diferentes redes
+	- No pueden salir a internet
+	- Se pueden repetir en diferentes redes
 
 |Clase | IPs privadas |
 |----------|:----------:|
