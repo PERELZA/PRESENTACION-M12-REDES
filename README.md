@@ -83,8 +83,7 @@ Las VLANs  segmentan la red en múltiples redes lógicas. Cada VLAN funciona com
 
 | NAT | Adaptador puente | Red interna | Adaptador host only | Red NAT | No conectado |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-|Actúa como una puerta principal, permitiendo que múltiples dispositivos se conecten a internet a través de una única dirección IP.
-| Une dos redes diferentes, como si fueran una sola, permitiendo que los dispositivos en ambas redes se comuniquen. |Es una red privada dentro de una red más grande, ofreciendo un mayor nivel de seguridad y control. | Permite que un ordenador comparta archivos y recursos sin conectarse a internet. |Similar a NAT, pero con características adicionales para gestionar subredes y otras configuraciones más avanzadas. | Indica que la tarjeta de red no está conectada a ninguna red. |
+|Actúa como una puerta principal, permitiendo que múltiples dispositivos se conecten a internet a través de una única dirección IP.| Une dos redes diferentes, como si fueran una sola, permitiendo que los dispositivos en ambas redes se comuniquen. |Es una red privada dentro de una red más grande, ofreciendo un mayor nivel de seguridad y control. | Permite que un ordenador comparta archivos y recursos sin conectarse a internet. |Similar a NAT, pero con características adicionales para gestionar subredes y otras configuraciones más avanzadas. | Indica que la tarjeta de red no está conectada a ninguna red. |
 
 
 
