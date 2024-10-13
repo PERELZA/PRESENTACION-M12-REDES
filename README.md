@@ -46,19 +46,19 @@
 |B | 172.16.x.x| 
 |B | 192.168.x.x| 
 
-##Quines IP's s'utilitzen per a servidors i quines ip's per a portes d'enllaç. 
+## Quines IP's s'utilitzen per a servidors i quines ip's per a portes d'enllaç. 
 
-#IPs para servidores:
+# IPs para servidores:
 1. Son direcciones IP asignadas a dispositivos que ofrecen servicios en una red (como un servidor web, de correo, etc.).
 2. Normalmente, estas IPs son estáticas, es decir, no cambian, para que los otros dispositivos siempre puedan encontrarlos de forma fiable.
 3. Ejemplo: 192.168.1.10 o 172.16.0.2 en redes privadas.
 
-#IPs para la puerta de enlace:
+# IPs para la puerta de enlace:
 1. La puerta de enlace es la dirección IP del router o dispositivo que conecta la red local a otras redes, como Internet.
 2. Los dispositivos dentro de la red usan esta IP para salir fuera de su red local y acceder a otras redes.
 3. Ejemplo: La IP de la puerta de enlace suele ser la primera IP disponible en la red, como 192.168.1.1 o 10.0.0.1.
 
-##Funcionalitat de la màscares de xarxa i com es calculen segons la classificació d'IP's. 
+## Funcionalitat de la màscares de xarxa i com es calculen segons la classificació d'IP's. 
 
 Las máscaras de red separan una dirección IP en dos partes: la parte de red y la parte de host, lo que facilita la identificación y gestión dentro de la red. Ayudan a los enrutadores a dirigir correctamente los datos y permiten dividir una red grande en subredes
 
@@ -68,12 +68,12 @@ Las máscaras de red separan una dirección IP en dos partes: la parte de red y 
 |B | 255.255.0.0 | 
 |B | 255.255.255.0 | 
 
-##VLAN (què és i perquè serveix, configuració en Packet Tracer) 
+## VLAN (què és i perquè serveix, configuració en Packet Tracer) 
 
 Las VLANs  segmentan la red en múltiples redes lógicas. Cada VLAN funciona como una red independiente, con sus propias reglas y configuraciones. Esto ofrece múltiples beneficios:
-1. *Seguridad:* Al segmentar la red, se reduce la superficie de ataque. Si un atacante logra comprometer un dispositivo en una VLAN, no podrá acceder directamente a los dispositivos de otras VLAN.
-2. *Gestión:* Las VLAN facilitan la gestión de la red, ya que permiten administrar grupos de dispositivos de forma independiente.
-3. *Organización:* Las VLAN permiten organizar los dispositivos según su función o departamento, lo que facilita la administración. 
+1. **Seguridad:** Al segmentar la red, se reduce la superficie de ataque. Si un atacante logra comprometer un dispositivo en una VLAN, no podrá acceder directamente a los dispositivos de otras VLAN.
+2. **Gestión:** Las VLAN facilitan la gestión de la red, ya que permiten administrar grupos de dispositivos de forma independiente.
+3. **Organización:** Las VLAN permiten organizar los dispositivos según su función o departamento, lo que facilita la administración. 
 
 
 
