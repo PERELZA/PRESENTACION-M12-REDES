@@ -75,6 +75,8 @@ Las VLANs  segmentan la red en múltiples redes lógicas. Cada VLAN funciona com
 2. **Gestión:** Las VLAN facilitan la gestión de la red, ya que permiten administrar grupos de dispositivos de forma independiente.
 3. **Organización:** Las VLAN permiten organizar los dispositivos según su función o departamento, lo que facilita la administración. 
 
+![CISCO](https://github.com/PERELZA/PRESENTACION-M12-REDES/blob/main/Captura%20de%20pantalla%202024-10-13%20193316.png "CISCO")
+
 
 
  
