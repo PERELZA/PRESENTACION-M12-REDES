@@ -90,7 +90,12 @@ Las VLANs  segmentan la red en múltiples redes lógicas. Cada VLAN funciona com
 “ncpa.cpl”
 
 ![CISCO](https://github.com/PERELZA/PRESENTACION-M12-REDES/blob/main/iytuyfgvhjkjoihogufydt.png "CISCO")
+![CISCO](https://github.com/PERELZA/PRESENTACION-M12-REDES/blob/main/iyufghjkhgfdghvvgvgvvggvgvgvgv.png "CISCO")
 
+## Configuració de xarxa en Linux (en un Debian i en un Ubuntu 22.04).
+
+“sudo nano /etc/network/interfaces” 
+![CISCO](https://github.com/PERELZA/PRESENTACION-M12-REDES/blob/main/upopo.png "CISCO")
 
 
 
