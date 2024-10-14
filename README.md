@@ -75,11 +75,19 @@ Las VLANs  segmentan la red en múltiples redes lógicas. Cada VLAN funciona com
 2. **Gestión:** Las VLAN facilitan la gestión de la red, ya que permiten administrar grupos de dispositivos de forma independiente.
 3. **Organización:** Las VLAN permiten organizar los dispositivos según su función o departamento, lo que facilita la administración. 
 
-![CISCO](https://github.com/PERELZA/PRESENTACION-M12-REDES/blob/main/Captura%20de%20pantalla%202024-10-13%20193316.png "CISCO")
+
+<div align="center">
+ <img src="https://github.com/PERELZA/PRESENTACION-M12-REDES/blob/main/Captura%20de%20pantalla%202024-10-13%20193316.png" alt="CISCO")
+width="450">
+</div>
+
 
 ## Configuració de xarxa a màquines virtuals. Diferents configuracions dels adaptadors de xarxa. 
 
-![red](https://github.com/PERELZA/PRESENTACION-M12-REDES/blob/main/sdfghjk.png "red")
+<div align="center">
+ <img src="https://github.com/PERELZA/PRESENTACION-M12-REDES/blob/main/sdfghjk.png" alt="REDES")
+width="450">
+</div>
 
 | NAT | Adaptador puente | Red interna | Adaptador host only | Red NAT | No conectado |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
@@ -88,14 +96,23 @@ Las VLANs  segmentan la red en múltiples redes lógicas. Cada VLAN funciona com
 ## Configuració de xarxa en windows. 
 
 “ncpa.cpl”
-
-![CISCO](https://github.com/PERELZA/PRESENTACION-M12-REDES/blob/main/iytuyfgvhjkjoihogufydt.png "CISCO")
-![CISCO](https://github.com/PERELZA/PRESENTACION-M12-REDES/blob/main/iyufghjkhgfdghvvgvgvvggvgvgvgv.png "CISCO")
+<div align="center">
+ <img src="https://github.com/PERELZA/PRESENTACION-M12-REDES/blob/main/iytuyfgvhjkjoihogufydt.png" alt="REDES")
+width="450">
+</div>
+<div align="center">
+ <img src="https://github.com/PERELZA/PRESENTACION-M12-REDES/blob/main/iyufghjkhgfdghvvgvgvvggvgvgvgv.png" alt="REDES")
+width="450">
+</div>
 
 ## Configuració de xarxa en Linux (en un Debian i en un Ubuntu 22.04).
 
 “sudo nano /etc/network/interfaces” 
-![CISCO](https://github.com/PERELZA/PRESENTACION-M12-REDES/blob/main/upopo.png "CISCO")
+<div align="center">
+ <img src="https://github.com/PERELZA/PRESENTACION-M12-REDES/blob/main/upopo.png" alt="REDES")
+width="450">
+</div>
+
 
 
 
