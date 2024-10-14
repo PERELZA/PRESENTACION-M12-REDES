@@ -96,9 +96,7 @@ width="450">
 ## Configuració de xarxa en windows. 
 
 “ncpa.cpl”
-
-![ETH](github.com/PERELZA/PRESENTACION-M12-REDES/blob/main/iytuyfgvhjkjoihogufydt.png "ETH")
-
+![eth](github.com/PERELZA/PRESENTACION-M12-REDES/blob/main/iytuyfgvhjkjoihogufydt.png "eth")
 </div>
 <div align="center">
  <img src="https://github.com/PERELZA/PRESENTACION-M12-REDES/blob/main/iyufghjkhgfdghvvgvgvvggvgvgvgv.png" alt="REDES")
